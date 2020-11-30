@@ -1,0 +1,4 @@
+Para este projeto, tive que baixar o composer (https://getcomposer.org/) e composer.phar (https://packagist.org/) - consequentemente tive que rodar o código php composer.phar install
+e composer require twig/twig (um template que utilizei).
+
+Se ocorrer algum erro me avise, por favor. Obrigada!
